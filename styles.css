@@ -50,6 +50,12 @@ h2 {
   font-size: 24px;
   margin-bottom: 20px;
 }
+.box-2 h1{
+	margin: 20px 0px;
+	font-size: 25px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
 .skills {
   margin-bottom: 18px;
   user-select: none;
